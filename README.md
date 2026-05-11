@@ -8,7 +8,7 @@
 - jampDed will be downloaded on first start if it's not already included in your import
 - The ports (or rather none of the options besides Server Start Param) are not used for the game, only to reserve against other servers, no idea how to set those, seem fixed
 - To Configure
-  - Click Edit Config => and check Server Start Param. Add +set fs_game modName to add mods. Dont forget a space between options
+  - Click Edit Config => and check Server Start Param. Add **+set fs_game modName** to add mods. Dont forget a space between options
   - Click Browse => Server Files and edit server.cfg to your liking
 
 ### WindowsGSM Installation: 
