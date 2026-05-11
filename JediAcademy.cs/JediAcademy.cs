@@ -56,7 +56,7 @@ namespace WindowsGSM.Plugins
         // - Create a default cfg for the game server after installation
         public async void CreateServerCFG()
         {
-
+            await InstallServerFile();
         }
 
         public async Task<bool> InstallServerFile()
