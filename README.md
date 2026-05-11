@@ -7,8 +7,8 @@
 - Use Import to use another install method as Steam. 
 - The ports (or rather any option besides Server Start Param) are not used for the game, only to reserve against other servers, no idea how to set those, seem fixed
 - To Configure
-* Click Edit Config => and check Server Start Param. Add +set fs_game modName to add mods. Dont forget a space between options
-* Click Browse => Server Files and edit server.cfg to your liking
+  - Click Edit Config => and check Server Start Param. Add +set fs_game modName to add mods. Dont forget a space between options
+  - Click Browse => Server Files and edit server.cfg to your liking
 
 ### WindowsGSM Installation: 
 1. Download  WindowsGSM https://windowsgsm.com/ 
