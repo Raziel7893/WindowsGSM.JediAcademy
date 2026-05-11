@@ -33,22 +33,9 @@
 
 ### Port Forwarding (YOU NEED THIS, TO BE ABLE TO CONNECT FROM THE INTERNET(only for servers/pcs at home):
 - If You don't know How: Google: YourRouterBrand + Portforwarding
-- No Idead what ports the game use tbh. 
-
-### Files To Backup
-- Save Game (You could only save serverfiles/JediAcademy/Saved , but that includes many big logs)
-  - WindowsGSM\servers\%ID%\serverfiles/R5/Saved/SaveProfile
-  - WindowsGSM\servers\%ID%\serverfiles/R5/Saved/Configs
-- WindowsGSM Config
-  - WindowsGSM\servers\%ID%\configs
-
-### Available Params
-All these params are automatically set by WGSM. Check Serverfiles/Documentation.pdf
-- -port=8211                    can be change by Click Edit Config => Port
-- -queryPort=27015              can be change by Click Edit Config => QueryPort
-- -serverName                   can be change by Click Edit Config => Server Name
-- -nographics 					default
-- -batchmode					default
+- Ports are not settable by WindowsGSM!
+- 29060-29062 UDP
+- 29070-29081 UDP
 
 ### Connecting on a locked server (with password)
 For now only Connecting via a the ingame serverbrowser is possible. It is recommended to note down the 5 Options after password and filter your servers accordingly (as there is no name filter either)
