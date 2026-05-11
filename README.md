@@ -4,7 +4,8 @@
 ## PLEASE ⭐STAR⭐ THE REPO IF YOU LIKE IT! THANKS!
 
 ### Notes
-- Use Import to use another install method as Steam. 
+- Use Import to use another install method as Steam. Choose the folder where JediAcademy.exe is.
+- The jampDed will be downloaded on first start automatically
 - The ports (or rather any option besides Server Start Param) are not used for the game, only to reserve against other servers, no idea how to set those, seem fixed
 - To Configure
   - Click Edit Config => and check Server Start Param. Add +set fs_game modName to add mods. Dont forget a space between options
